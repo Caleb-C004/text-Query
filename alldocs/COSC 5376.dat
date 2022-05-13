@@ -1,0 +1,7 @@
+COSC 5376 - Fundamentals of Data Warehouses
+This course provides an overview of the fundamentals of data
+warehousing including planning, designing, building, populating, and
+maintaining a successful data warehouse. Specific topics covered include
+the logical design of a data warehouse, data warehousing architecture,
+extract-transform-load processing, a comparison of OLAP and OLTP
+and query processing utilizing multidimensional views of data.

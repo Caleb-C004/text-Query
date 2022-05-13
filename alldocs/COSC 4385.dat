@@ -1,0 +1,9 @@
+COSC 4385 - Database Management Concepts
+Database system architecture; file structures for databases, including
+indexing, hashing, and B+ trees, the relational model and algebra; the
+SQL database language; alternative database systems (network,
+hierarchical, object-oriented, object-relational, logical implementation,
+temporal, etc.), conceptual data modeling including Entity-Relationship
+data modeling; advanced data modeling concepts; functional
+dependencies, basic normalization, and database security management.
+Prerequisite: COSC 2336.

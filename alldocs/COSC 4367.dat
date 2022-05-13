@@ -1,0 +1,6 @@
+COSC 4367 - Cryptography
+An overview to cryptography, which includes classical encryption, block
+ciphers and DES, public key cryptography, hashing, message
+authentication, key management, digital signatures, user authentication,
+transport layer security, wireless security, and e-mail security.
+Prerequisite: COSC 4325 or COSC 4360 or equivalent. .

@@ -1,0 +1,5 @@
+COSC 4377 - Compiler Techniques
+Characteristics of the compiling process, syntax directed compiling,
+symbol table construction and searching, top down and bottom up
+methods, formal grammars, and a formalization of syntax.
+Prerequisite: COSC 2315 and COSC 2336.

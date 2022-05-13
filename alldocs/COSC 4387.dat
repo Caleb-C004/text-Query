@@ -1,0 +1,9 @@
+COSC 4387 - Computer Performance Evaluation
+Discrete and continuous simulation of dynamic systems. Topics include:
+simulation of probabilistic systems; mathematical models of real
+systems; system classifications; random number generators; simulation
+languages; single queue and queue networks. Workloads, benchmarks,
+performance measurement techniques, and case studies will be used in
+system capacity planning, hardware selection and upgrade, and
+performance tuning.
+Prerequisite: COSC 3325.

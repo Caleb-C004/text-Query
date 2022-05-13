@@ -1,0 +1,4 @@
+COSC 5366 - Compiler Techniques
+Characteristics of the compiling process, syntax directed compiling,
+symbol table construction and searching, top down and bottom up
+methods, formal grammars, and a formalization of syntax.

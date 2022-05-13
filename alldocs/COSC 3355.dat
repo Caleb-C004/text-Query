@@ -1,0 +1,7 @@
+COSC 3355 - Operating Systems
+Fundamentals of operating systems design and implementation. Topics
+include an overview of the components of an operating system, mutual
+exclusion and synchronization, implementation of processes, scheduling
+algorithms, memory management, operating system security, and file
+systems.
+Prerequisite: COSC 2315 and COSC 2336.
