@@ -8,4 +8,4 @@ Once done parsing, a query term can be given in the form of a single word with o
 
 example: dog, DOG -> both will search for the term 'dog'   while the query do* will return 'dog' but also would search for 'down' or 'done'
 
-The alldocs zip folder contains 2200 DAT files to read from as input
+The alldocs zip folder contains 1000 DAT files to read from as input
