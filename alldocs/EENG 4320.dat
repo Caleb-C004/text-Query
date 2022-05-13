@@ -1,0 +1,7 @@
+EENG 4320 - Computer Architecture and Design
+Introduction to computer architecture, RISC, CISC and VLIW
+processors; data path and control; ALU structure; pipelining, memory;
+cache; I/O; digital logic; micro architecture, instruction sets, addressing
+modes; operating systems; virtual memory; processes; assembly
+language. Three hours of lecture per week.
+Prerequisite: EENG 3307.

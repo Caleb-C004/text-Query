@@ -1,0 +1,11 @@
+EENG 5330 - Communication Systems Engineering
+Review of the principles of amplitude and frequency modulation. The
+main focus for the course will be the reliability issues for digital
+communication systems. This will include but is not limited to
+information theory and coding theory. Typical base-band and pass-band
+modulation schemes will be analyzed in terms of their bit error rate
+(BER) performance. Examples taken from telephone line modems will
+be discussed. Link budget analysis appropriate for satellite and fiberoptics
+communication systems will also be covered. Three hours of
+lecture per week.
+Prerequisite: EENG 4312 or equivalent, or consent of instructor.
